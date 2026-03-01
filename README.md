@@ -1,7 +1,6 @@
 **-> **AutomationPracticeProjects****
 
 -> This project automates end-to-end test scenarios on [AutomationExercise.com](https://automationexercise.com) The goal is to build a robust, maintainable, and data-driven UI automation framework following the Page Object Model (POM) design pattern.
--> Covered almost the topics mentioned in workshop topics tracking sheet. 
 
 **-> **Features****
 
